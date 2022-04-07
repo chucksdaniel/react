@@ -1,0 +1,107 @@
+* {
+	box-sizing: border-box;
+	/* background-color: #1a1b21; */
+	color: #ffffff;
+}
+
+body {
+	background: #1a1b21;
+}
+
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.card {
+	margin: 0 auto;
+	width: 40%;
+	float: none;
+	margin-bottom: 10px;
+}
+
+.bio {
+	line-height: 5%;
+}
+
+.pro-pic {
+	width: 40%;
+	display: block;
+	margin: auto;
+	align-content: center;
+	/* height: 300px; */
+	border-radius: 10px 10px 0px 0px;
+}
+.name {
+	font-family: "Inter";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	text-align: center;
+}
+.post {
+	text-align: center;
+	line-height: 2px;
+}
+
+.mail {
+	text-align: center;
+	font-family: "Inter";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12.24px;
+}
+
+.social {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: center;
+	/* justify-content: space-between; */
+	/* background-color:#0a0a23; */
+	color: #fff;
+	/* border-radius:10px;  */
+	padding: 9px 13px 9px 11px;
+}
+
+.social-mail {
+	background: #fff;
+	color: #333;
+	border: none;
+	margin: 0px 15px;
+	border-radius: 6px;
+	padding: 10px;
+	min-height: 30px;
+	min-width: 120px;
+}
+
+.social-li {
+	background: #5093e2;
+	color: #fff;
+	border: none;
+	border-radius: 6px;
+	padding: 10px;
+	min-height: 30px;
+	min-width: 120px;
+}
+
+.mail-icon {
+	background-color: #333;
+}
+
+.linkedin-icon {
+	background-color: #5093e2;
+}
+
+.footer-item {
+	background-color: #161619;
+}
+
+.social-handles {
+	display: flex;
+	justify-content: space-between;
+	margin-left: 73px;
+	margin-right: 73px;
+}
