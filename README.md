@@ -1,1 +1,3 @@
-# React Projects and Lessons for beginners and intermediate level
+# React Projects
+
+Lessons for beginners and intermediate level react developer
